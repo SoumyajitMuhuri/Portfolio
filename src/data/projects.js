@@ -7,8 +7,8 @@ const projects = [
   {
     id: 'yapr',
     icon: yaprIcon,
-    title: 'Yapr – A Real-Time Chat Application',
-    description: 'Real-time messaging with instant delivery, live online status, cursor-based message pagination, secure Clerk authentication, and media sharing through ImageKit.',
+    title: 'Yapr – A Social Messenger with Real-Time Chat, Media Sharing, and Live Presence',
+    description: 'A social messaging application featuring real-time Socket.IO messaging with multiple users, live online presence indicators, secure Clerk authentication, multi-media sharing, an interactive user-friendly UI, and paginated conversation history.',
     tech: ['React', 'Socket.io', 'Node.js', 'Express.js', 'MongoDB', 'Clerk', 'ImageKit', 'Zustand', 'HeroUI', 'Tailwind CSS'],
     siteUrl: 'https://yapr.onrender.com',
     codeUrl: 'https://github.com/SoumyajitMuhuri/Yapr',
@@ -18,7 +18,7 @@ const projects = [
   {
     id: 'converge',
     icon: convergeIcon,
-    title: 'Converge – A URL Shortener with Live Analytics',
+    title: 'Converge – A URL Shortener with QR Codes and Live Analytics',
     description: 'A URL shortener with expiry-aware Redis caching, asynchronous visit tracking through BullMQ workers, and live analytics powered by Redis Pub/Sub and Server-Sent Events.',
     tech: ['React', 'Vite', 'Tailwind CSS', 'Recharts', 'Node.js', 'Express.js', 'MongoDB', 'Redis', 'BullMQ', 'JWT', 'ImageKit'],
     siteUrl: 'https://converge-psi-inky.vercel.app',
