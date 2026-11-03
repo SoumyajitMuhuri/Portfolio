@@ -4,7 +4,7 @@ import projects from './data/projects.js'
 import portraitSrc from './public/IMG_20261015_121436770.jpg'
 
 const skills = {
-  'Programming Languages': ['JavaScript', 'Java', 'C', 'PHP', 'Kotlin'],
+  'Programming Languages': ['JavaScript', 'Java', 'C', 'Python', 'PHP', 'Kotlin'],
   'Core Concepts': ['Object-Oriented Programming (OOP)', 'Data Structures & Algorithms', 'System Design (LLD & HLD Fundamentals)', 'Computer Networks', 'Version Control (Git, GitHub)'],
   'Web Development': ['MERN Stack', 'RESTful APIs', 'JWT Authentication', 'WebSockets', 'HTML5', 'CSS3'],
   Databases: ['MongoDB', 'PostgreSQL', 'MySQL', 'Redis', 'OracleDB'],
